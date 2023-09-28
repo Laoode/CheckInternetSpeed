@@ -6,20 +6,16 @@ This Flutter application allows you to stylishly check your internet speed. It u
 
 ## Required Modules 📦
 
-You'll need to install a few modules to run this application. You can install them using `pub`.
+To run this application, you'll need to install a few modules. You can install them using `flet` for Python and `speedtest-cli` for the internet speed test.
 
-- `flet`: This library is used to create attractive and responsive Flutter interfaces.
-- `speedtest`: This library is used to measure internet speed.
-
-You can install these modules with the following command:
+```
 pip install flet
 pip install speedtest-cli
-```bash
-pub get
-How to Use 🚀
-Clone this repository to your computer.
-Open the project using Flutter.
-Run the application on your device or emulator.
+```
+## How to Use 🚀
+1. Clone this repository to your computer.
+2. Open the project using Flutter.
+3. Run the application on your device or emulator.
 Contribution 💪
 If you'd like to contribute to this project, please create a pull request, and we'll gladly review it.
 
@@ -32,5 +28,4 @@ If you have any questions or feedback, feel free to contact the developer:
 👤 Yudhy Prayitno
 ✉️ yudhyprayitno567@gmail.com
 
-Thank you for using this application! We hope it's helpful for you. Happy coding! 🎉
-
+Thank you for using this application! We hope it's helpful for you. Happy coding! 
